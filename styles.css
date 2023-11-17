@@ -13,12 +13,19 @@ body{
 	
 }
 .price{
-	background-color:green;
+	background-color:rgb(46, 204, 113);
 	height:40px;
 	width:400px;
 	border-radius:10px;
 	text-align:center;
 	padding:10px;
+}
+
+h1{
+	text-align:center;
+	padding-top:20px;
+	
+	
 }
 .heading{
 	font-size:15px;
