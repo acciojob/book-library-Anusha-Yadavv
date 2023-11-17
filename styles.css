@@ -12,16 +12,20 @@ body{
 	text-align:center;
 	
 }
-button{
+.price{
 	background-color:green;
 	height:40px;
 	width:400px;
 	border-radius:10px;
+	text-align:center;
+	padding:10px;
 }
 .heading{
 	font-size:15px;
 	text-align:left;
+	color:#777777;
 }
 .para{
 	text-align:left;
+	color:#2ecc71;
 }
